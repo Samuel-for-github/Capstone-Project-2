@@ -122,7 +122,7 @@ a{
 @media (max-width: 620px) {
     .heading>h1{
         font-size: xx-large;
-        -webkit-text-stroke-width: 0.5px;
+        -webkit-text-stroke-width: 1px;
     }
     .sub-heading>h2{
         font-size: x-large;
