@@ -34,8 +34,8 @@ p{
 .left{
     width: 50%;
 }
-.left left{float: left;}
-.right left{float: left;}
+.left img{float: left;}
+.right img{float: left;}
 h3{
     font-family: "Luciole";
     color: #3E001F;
@@ -140,7 +140,7 @@ a{
     .flex-2{
         flex-direction: column;
     }
-    left{
+    img{
         height: 80px;
     }
     .left{
